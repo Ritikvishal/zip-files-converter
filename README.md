@@ -24,7 +24,7 @@ Zipfile – File compression module.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/file-zipper.git
+https://github.com/Ritikvishal/zip-files-converter.git
 cd file-zipper
 
 Run the application:
